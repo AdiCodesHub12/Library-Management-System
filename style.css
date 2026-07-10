@@ -50,8 +50,8 @@ body {
   gap: 8px;
   background: #1e3347;
   border: 1px solid #3a5068;
-  border-radius: 40px;
-  padding: 5px 10px 5px 18px;
+  border-radius: 20px;
+  padding: 5px 10px 5px 8px;
   flex: 1;
   max-width: 420px;
 }
