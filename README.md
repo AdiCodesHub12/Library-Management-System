@@ -7,19 +7,29 @@ with a modern and responsive design.
 ## ✨ Features
 
 • Add New Books
+
 • Remove Books
+
 • Issue Books
+
 • Display Book List
+
 • Interactive User Interface
+
 • Fully Responsive Design
+
 • Clean and Modern Layout
+
 • Fast and Lightweight
+
 • Cross-Browser Compatible
 
 ## 🛠️ Technologies Used
 
 • HTML5
+
 • CSS3
+
 • JavaScript (ES6)
 
 ## 📂 Project Structure
@@ -37,14 +47,19 @@ Library-Management-System/
 ## 🚀 Getting Started
 
 • Clone this repository.
+
 • Open the project folder.
+
 • Run the `index.html` file in your browser.
+
 • Start exploring the application.
 
 ## 📖 How to Use
 
 1. Open the application.
+
 2. Add book details.
+
 3. View all added books.
 
 ## 📸 Screenshots
@@ -58,7 +73,9 @@ library-management-system-rouge-eight.vercel.app
 ## 🌍 Browser Support
 
 • Google Chrome
+
 • Safari
+
 • Brave Browser
 
 ## 👨‍💻 Author
