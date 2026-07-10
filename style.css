@@ -51,7 +51,7 @@ body {
   background: #1e3347;
   border: 1px solid #3a5068;
   border-radius: 20px;
-  padding: 5px 10px 5px 8px;
+  padding: 5px 10px 5px 5px;
   flex: 1;
   max-width: 420px;
 }
