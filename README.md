@@ -4,6 +4,8 @@ A fully responsive **Library Management System** built using **HTML5, CSS3, and 
 This project provides a clean and user-friendly interface for managing library books efficiently 
 with a modern and responsive design.
 
+---
+
 ## ✨ Features
 
 • Add New Books
@@ -24,6 +26,8 @@ with a modern and responsive design.
 
 • Cross-Browser Compatible
 
+---
+
 ## 🛠️ Technologies Used
 
 • HTML5
@@ -31,6 +35,8 @@ with a modern and responsive design.
 • CSS3
 
 • JavaScript (ES6)
+
+---
 
 ## 📂 Project Structure
 
@@ -43,6 +49,7 @@ Library-Management-System/
 ├── script.js
 └── README.md
 ```
+---
 
 ## 🚀 Getting Started
 
@@ -54,37 +61,47 @@ Library-Management-System/
 
 • Start exploring the application.
 
+---
+
 ## 📖 How to Use
 
 1. Open the application.
+   
+3. Add book details.
 
-2. Add book details.
+4. View all added books.
 
-3. View all added books.
+---
 
 ## 📸 Screenshots
 
-![Library Management System](images/screenshot.png)
+![Library Management System](images/Screenshot.png)
+
+---
 
 ## 🌐 Live Demo
 
-library-management-system-rouge-eight.vercel.app
+[library-management-system-rouge-eight.vercel.app](https://library-management-system-rouge-eight.vercel.app)
 
 ## 🌍 Browser Support
 
 • Google Chrome
-
-• Safari
-
+• Safari 
 • Brave Browser
+
+---
 
 ## 👨‍💻 Author
 
 https://github.com/AdiCodesHub12
 
+---
+
 ## ⭐ Support
 
 If you found this project helpful, don't forget to ⭐ this repository.
+
+---
 
 
 ## 📄 License
