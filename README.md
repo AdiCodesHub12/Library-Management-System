@@ -86,7 +86,9 @@ Library-Management-System/
 ## 🌍 Browser Support
 
 • Google Chrome
+
 • Safari 
+
 • Brave Browser
 
 ---
